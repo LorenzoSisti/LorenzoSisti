@@ -1,4 +1,4 @@
-Hi there! My name is [Lorenzo Sisti](https://sites.google.com/view/lorenzosisti) and I'm a Biochemistry student at Sapienza University of Rome. I’m trained as a computational and structural biologist - although my academic background has a strong biomedical and microbiological focus. My main research interests lie at the intersection of Biochemistry, Biophysics, and Bioinformatics, with a particular focus on:
+Hi there! My name is [Lorenzo Sisti](https://sites.google.com/view/lorenzosisti) and I'm a Biochemistry student at Sapienza University of Rome. I’m trained as a computational and structural biologist - although my academic background has a strong biomedical and biomolecular focus. My main research interests lie at the intersection of Biochemistry, Biophysics, and Bioinformatics, with a particular focus on:
 
 - Protein structure, folding and interactions.
 - Computational modeling and molecular dynamics (MD) simulations of proteins.
