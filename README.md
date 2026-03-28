@@ -1,4 +1,8 @@
-Hi there! My name is [Lorenzo Sisti](https://sites.google.com/view/lorenzosisti) and I'm a Biochemist. I’m trained as a computational and structural biologist - although my academic background has a strong biomedical and biomolecular focus. My main research interests lie at the intersection of Biochemistry, Biophysics, and Bioinformatics, with a particular focus on:
+Hi there 👋 
+
+Here is is [Lorenzo](https://sites.google.com/view/lorenzosisti)! On my GitHub page, you'll find all my open-source coding projects.
+
+I'm a biochemist trained as a computational and structural biologist, and my main research interests lie at the intersection of Biochemistry, Biophysics, and Bioinformatics, with a particular focus on:
 
 - Proteins and antibodies structure, folding and interactions.
 - Computational modeling and molecular dynamics (MD) simulations of biomolecules.
