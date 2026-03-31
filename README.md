@@ -33,7 +33,7 @@ After a BSc wet-lab thesis internship in [Francesca Cutruzzolà's group](https:/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pazo01&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoSisti&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
