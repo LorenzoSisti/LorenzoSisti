@@ -27,10 +27,16 @@ After a BSc wet-lab thesis internship in [Francesca Cutruzzolà's group](https:/
 
 ---
 
-<!--
+### 📊 GitHub Stats
+
 ![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
--->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pazo01&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
 
 <!--
 **LorenzoSisti/LorenzoSisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
