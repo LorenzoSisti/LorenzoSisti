@@ -3,7 +3,7 @@
 
 ---
 
-### About me
+### 🧚 About me
 
 Here on my GitHub page, you'll find all my open-source coding projects.
 
