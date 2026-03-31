@@ -9,6 +9,18 @@ I'm a biochemist trained as a computational and structural biologist, and my mai
 
 After a BSc wet-lab thesis internship in [Francesca Cutruzzolà's group](https://sites.google.com/uniroma1.it/francescacutruzzola-eng/home), where I explored the interactions between metabolic enzymes of the folate cycle and nucleic acids, I joined [Jan Dohnálek's Laboratory of Structure and Function of Biomolecules](https://www.ibt.cas.cz/en/research-laboratories/laboratory-of-structure-and-function-of-biomolecules/) for an internship in crystallography and structural biology. I then transitioned to dry-lab for my MSc thesis in Computational Biophysics at the [IIT's Center for Life Nano- & Neuro-Science](https://www.iit.it/it/clns-sapienza). In parallel, I started collaborating with the [Structural Bioinformatics Group at Sapienza University of Rome](https://schubert.bio.uniroma1.it/index.html) on molecular dynamics simulations of the DOPA decarboxylase enzyme. Since february 2025 I collaborate with the haematology department of Tor Vergata Hospital as data entry and clinical data manager, and since february 2026 I work in Lucia Gabriele's Tumor Immunology lab at [Istituto Superiore di Sanità](https://www.iss.it/oncologia-e-medicina-molecolare), working on the development of an mRNA-based vaccine for indolent leukemias and lymphomas.
 
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/r.svg" alt="r" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+
+---
+
 <!--
 ![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
