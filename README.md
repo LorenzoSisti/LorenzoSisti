@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h2 align="center">🧬 Biochemist | 💻 Computational biologist</h2>
-
 ---
 
 ### About me
