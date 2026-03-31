@@ -1,6 +1,9 @@
-Hi there 👋 
+<h1 align="center">Hi 👋, I'm [Lorenzo](https://sites.google.com/view/lorenzosisti)</h1>
+<h2 align="center">🧬 Biochemist | 💻 Computational biologist</h2>
 
-Here is is [Lorenzo](https://sites.google.com/view/lorenzosisti)! On my GitHub page, you'll find all my open-source coding projects.
+---
+
+Here on my GitHub page, you'll find all my open-source coding projects.
 
 I'm a biochemist trained as a computational and structural biologist, and my main research interests lie at the intersection of biochemistry, biophysics and bioinformatics, with a focus on:
 
