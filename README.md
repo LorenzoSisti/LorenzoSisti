@@ -29,13 +29,13 @@ Here on my GitHub page, you'll find all my open-source coding projects.
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoSisti&theme=dark" alt="GitHub Streak" />
-</p>
-
-
-![Lorenzo's GitHub stats](https://github-readme-stats-coral-mu-63.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-coral-mu-63.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
+  <br/>
+  <img src="https://github-readme-stats-coral-mu-63.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark" alt="Lorenzo's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats-coral-mu-63.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark" alt="Top Langs" />
+</div>
 
 ---
 
