@@ -38,7 +38,7 @@ Here on my GitHub page, you'll find all my open-source coding projects.
 ![Top Langs](https://github-readme-stats-coral-mu-63.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
 
 ---
-https://github-readme-stats-coral-mu-63.vercel.app/
+
 <!--
 **LorenzoSisti/LorenzoSisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
