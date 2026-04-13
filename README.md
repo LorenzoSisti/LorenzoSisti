@@ -34,11 +34,11 @@ Here on my GitHub page, you'll find all my open-source coding projects.
 </p>
 
 
-![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
+![Lorenzo's GitHub stats](https://github-readme-stats-coral-mu-63.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-coral-mu-63.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
 
 ---
-
+https://github-readme-stats-coral-mu-63.vercel.app/
 <!--
 **LorenzoSisti/LorenzoSisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
