@@ -9,14 +9,14 @@ After a BSc wet-lab thesis internship in [Francesca Cutruzzolà's group](https:/
 
 Leaving academia to the side, I’m passionate about theatre and science communication; in my free time I enjoy running, hiking, coding and practicing 3D animation in Blender.
 
-Here on my GitHub page, you'll find all my open-source coding projects.
-
 ### 🏴‍☠ Something about my research interests
 
 I'm a biochemist trained as a computational and structural biologist, and my main research interests lie at the intersection of biochemistry and biophysics, with a focus on:
 
 - Protein structure, folding and interactions.
 - Protein computational modeling and molecular dynamics simulations.
+
+Here on my GitHub page, you'll find all my open-source coding projects.
 
 **Languages:** 🇮🇹 Italian · 🇬🇧 English · 🇪🇸 Spanish · 🇩🇪 German (currently working on it, I'm at the very least a beginner)
 
