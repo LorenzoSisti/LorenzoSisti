@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">🧬 Biochemist | 💻 Computational biologist</h3>
+<h3 align="center">🧬<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dededb21-205f-419e-ae0b-52ba0f9fb793" />
+ Biochemist | 💻 Computational biologist</h3>
 
 ---
 
