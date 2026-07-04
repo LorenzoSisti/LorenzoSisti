@@ -11,7 +11,7 @@ Leaving academia to the side, I’m passionate about theatre and science communi
 
 Here on my GitHub page, you'll find all my open-source coding projects.
 
-### 🐦‍⬛ Something about my research interests
+### 🏴‍☠ Something about my research interests
 
 I'm a biochemist trained as a computational and structural biologist, and my main research interests lie at the intersection of biochemistry and biophysics, with a focus on:
 
