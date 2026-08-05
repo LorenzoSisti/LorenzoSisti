@@ -45,7 +45,8 @@ Here on my GitHub page, you'll find all my open-source coding projects.
 
 
 ![Lorenzo's GitHub stats](https://github-readme-stats-coral-mu-63.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-coral-mu-63.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats-lorenzosistis-projects.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
 
 ---
 
