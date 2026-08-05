@@ -43,8 +43,7 @@ Here on my GitHub page, you'll find all my open-source coding projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoSisti&theme=dark" alt="GitHub Streak" />
 </p>
 
-
-![Lorenzo's GitHub stats](https://github-readme-stats-coral-mu-63.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark)
+![Lorenzo's GitHub stats](https://github-readme-stats-lorenzosistis-projects.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats-lorenzosistis-projects.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
 
