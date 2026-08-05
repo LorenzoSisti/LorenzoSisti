@@ -48,10 +48,6 @@ Here on my GitHub page, you'll find all my open-source coding projects.
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark" alt="Top Langs" width="44%" />
 </p>
 
-![Lorenzo's GitHub stats](https://github-stats-extended.vercel.app/api?username=LorenzoSisti&show_icons=true&theme=dark)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LorenzoSisti&layout=compact&show_icons=true&theme=dark)
-
 ---
 
 <!--
