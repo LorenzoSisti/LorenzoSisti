@@ -25,12 +25,8 @@ Here on my GitHub page, you'll find all my open-source coding projects.
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lorenzosisti/" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lorenzo Sisti" height="30" width="40" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Lorenzo-Sisti/" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/lorenzosisti/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lorenzo Sisti" height="30" width="40" /></a>
+  <a href="https://www.researchgate.net/profile/Lorenzo-Sisti/" target="blank"><img src="https://img.shields.io/badge/-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" height="30" width="40" /></a>
 </p>
 
 ---
