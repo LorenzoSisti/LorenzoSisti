@@ -29,7 +29,7 @@ Here on my GitHub page, you'll find all my open-source coding projects.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lorenzo Sisti" height="30" width="40" />
   </a>
   <a href="https://www.researchgate.net/profile/Lorenzo-Sisti/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/researchgate.svg" alt="ResearchGate" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" height="30" width="40" />
 </a>
 </p>
 
