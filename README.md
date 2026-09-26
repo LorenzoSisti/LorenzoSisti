@@ -22,6 +22,15 @@ Here on my GitHub page, you'll find all my open-source coding projects.
 
 ---
 
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/lorenzosisti/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lorenzo Sisti" height="30" width="40" />
+  </a>
+</p>
+
+---
+
 ### 💻 Computational Tools
 
 <!--<p align="left">-->
