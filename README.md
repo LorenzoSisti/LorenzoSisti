@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">💠 Biochemist</h3>
 
 ---
 
