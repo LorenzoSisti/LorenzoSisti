@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lorenzo</h1>
-
----
+<h1 align="center">Hi 👋, I'm Lorenzo<h1>
 
 ### 🧚 Something about me
 
